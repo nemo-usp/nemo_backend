@@ -1,0 +1,3 @@
+[submodule "backend/nemo_site_backend/bootstraper/templates/nemo"]
+	path = backend/nemo_site_backend/bootstraper/templates/nemo
+	url = git@github.com:nemo-usp/nemo
