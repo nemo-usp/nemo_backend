@@ -1,0 +1,6 @@
+# Ignore python virtual environment
+backend/venv/*
+
+# Ignore __pycache__
+backend/nemo_site_backend/bootstraper/__pycache__/*
+backend/nemo_site_backend/nemo_site_backend/__pycache__/*
